@@ -53,7 +53,3 @@ The 'defect_prediction_data.csv' file contains the dataset used for defect predi
 ## Contribution
 
 Contributions are welcome! Please fork the repository, make changes, and submit pull requests.
-
-## License
-
-This project is licensed under [License Name]. Refer to the LICENSE file for more details.
